@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building AI Agents for Healthcare and Financial Services. <br>I am currently looking to collaborate on UX and QA.<br>I am currently learning Kubernetes and LangChain.<br>Ask Me About - AI in Enterprise<br>Fun Fact - Love talking about AI in Dinner parties!
+Building AI Agents for Healthcare and Financial Services. <br>I am currently looking to collaborate on UX, MLOps and QA.<br>I am currently learning Kubernetes and LangChain.<br>Ask Me About - AI in Enterprise<br>Fun Fact - Love talking about AI in Dinner parties!
 
 
 ## 🌐 Socials:
