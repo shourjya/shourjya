@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="alice">Hello from Twilio. Please listen carefully.</Say>
+    <Pause length="2"/>
+    <Say voice="man">We will now hang up.</Say>
+</Response>
